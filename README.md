@@ -29,6 +29,14 @@ git clone https://github.com/SvluoQK/english-learning-skill.git ~/.codex/skills/
 
 Codex 会解释含义，并把它写入你的词汇文件。
 
+更推荐的方式是配合 Codex 的语音能力使用：看到或听到一个新单词时，直接用说话的方式告诉 Codex 你要记录这个单词。
+
+例如你可以直接说：
+
+```text
+Codex，帮我记录这个单词：ominous。
+```
+
 也可以让它检查例句：
 
 ```text
@@ -69,4 +77,3 @@ Codex 会解释含义，并把它写入你的词汇文件。
 - 阅读英文文章时，保存高频词和短语。
 - 练习口语或写作时，让 Codex 检查例句是否自然。
 - 每天结束学习前，复习当天记录的词汇。
-
