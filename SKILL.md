@@ -1,9 +1,9 @@
 ---
-name: english-vocabulary-coach
-description: Maintain a user's personal English vocabulary list during realtime voice conversations, videos, or text chat. Use when the user asks to record an English word or phrase, explain its meaning in the user's preferred language, give or check an example sentence, review their saved vocabulary, or update the vocabulary Markdown file. Especially useful when a learner speaks recorded vocabulary requests aloud while watching a video.
+name: english-learning-skill
+description: Support English learners by maintaining a personal vocabulary Markdown file, explaining English words and phrases in the user's preferred language, giving or checking example sentences, and running short vocabulary review sessions. Use when the user asks to record English vocabulary, understand a word or phrase, practice sentences, review saved vocabulary, or update their vocabulary file.
 ---
 
-# English Vocabulary Coach
+# English Learning Skill
 
 ## Overview
 
@@ -46,6 +46,6 @@ Create `vocabulary.md` in the folder the user chooses. Use that file as the auth
 ## Install and use
 
 1. Download this folder from GitHub and keep `SKILL.md` and `vocabulary-example.md` together.
-2. Place the folder in Codex's local skills directory as `english-vocabulary-coach` (commonly `~/.codex/skills/english-vocabulary-coach/`).
+2. Place the folder in Codex's local skills directory as `english-learning-skill` (commonly `~/.codex/skills/english-learning-skill/`).
 3. Restart Codex or start a new chat so the skill can be discovered.
 4. Ask Codex to help record, explain, practise, or review English vocabulary.
